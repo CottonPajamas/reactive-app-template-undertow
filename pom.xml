@@ -2,11 +2,11 @@
 	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
 	xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 https://maven.apache.org/xsd/maven-4.0.0.xsd">
 	<modelVersion>4.0.0</modelVersion>
-	<groupId>reactive-javaee-template</groupId>
-	<artifactId>reactive-javaee-template</artifactId>
+	<groupId>reactive-app-template-undertow</groupId>
+	<artifactId>reactive-app-template-undertow</artifactId>
 	<version>0.0.1</version>
-	<name>reactive-javaee-template</name>
-	<description>Simple reactive Javaee template.</description>
+	<name>reactive-app-template-undertow</name>
+	<description>Simple, light and reactive Java web app template.</description>
 
 	<dependencies>
 		<!-- https://mvnrepository.com/artifact/io.undertow/undertow-servlet -->
