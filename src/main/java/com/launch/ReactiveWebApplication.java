@@ -10,11 +10,11 @@ import io.undertow.util.Headers;
 /**
  * References: 
  * <br>
- * https://www.baeldung.com/jboss-undertow
+ * http://undertow.io/undertow-docs/undertow-docs-1.4.0/index.html
  * <br>
  * https://dzone.com/articles/microservices-with-undertow-introduction
  * <br>
- * http://undertow.io/undertow-docs/undertow-docs-1.4.0/index.html
+ * https://www.baeldung.com/jboss-undertow
  * 
  * @author CottonPajamas
  *

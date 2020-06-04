@@ -6,7 +6,7 @@
 	<artifactId>reactive-app-template-undertow</artifactId>
 	<version>0.0.1</version>
 	<name>reactive-app-template-undertow</name>
-	<description>Simple, light and reactive Java web app template.</description>
+	<description>Simple, lightweight and reactive Java web app template.</description>
 
 	<dependencies>
 		<!-- https://mvnrepository.com/artifact/io.undertow/undertow-servlet -->
